@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Hoffmann
 
-<!--
-**viniciushoffmanndev/viniciushoffmanndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.  
+Aqui no GitHub você vai encontrar meus projetos, estudos e experimentos. Todos feitos com dedicação e curiosidade.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 Desenvolvedor com foco em **Java**
+- 📚 Estudando **[DevOps]**
+- 🛠️ Gosto de criar soluções que resolvem problemas reais
+- 🌱 Sempre aprendendo algo novo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 Sempre curioso e aprendendo!
+Adoro explorar novas tecnologias, investigar soluções criativas e compartilhar conhecimento.
+
+## 📫 Como me encontrar
+- 💼 LinkedIn: [Clique aqui](www.linkedin.com/in/viniciushoffmanndev)
+- 📧 Email: viniciushoffmanndeveloper@gmail.com
