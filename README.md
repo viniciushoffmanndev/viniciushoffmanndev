@@ -13,7 +13,7 @@ Aqui no GitHub você vai encontrar meus projetos, estudos e experimentos. Todos 
 Adoro explorar novas tecnologias, investigar soluções criativas e compartilhar conhecimento.
 
 ## 📫 Como me encontrar
-- 💼 LinkedIn: [Clique aqui](www.linkedin.com/in/viniciushoffmanndev)
+- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/viniciushoffmanndev)
 
 
 
