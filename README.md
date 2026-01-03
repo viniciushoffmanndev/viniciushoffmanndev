@@ -14,6 +14,6 @@ Adoro explorar novas tecnologias, investigar soluções criativas e compartilhar
 
 ## 📫 Como me encontrar
 - 💼 LinkedIn: [Clique aqui](www.linkedin.com/in/viniciushoffmanndev)
-- 📧 Email: viniciushoffmanndeveloper@gmail.com
 
-![ViniciusHoffmannDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciushoffmanndev&show_icons=true&theme=radical)
+
+
