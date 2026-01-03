@@ -7,7 +7,6 @@ Aqui no GitHub você vai encontrar meus projetos, estudos e experimentos. Todos 
 - 💻 Desenvolvedor com foco em **Java** e um pouco de outras linguagens.
 - 📚 Estudando **DevOps**
 - 🛠️ Gosto de criar soluções que resolvem problemas reais
-- 🌱 Sempre aprendendo algo novo
 
 ## 🤔 Sempre curioso e aprendendo!
 Adoro explorar novas tecnologias, investigar soluções criativas e compartilhar conhecimento.
